@@ -23,6 +23,4 @@ sudo pacman -S bspwm sxhkd polybar rxvt-unicode picom feh dunst figlet
 
 ## Extras:
 
-Font(Hack Nerd Font) from:
-
-[Collection of Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
+Font(Hack Nerd Font) from [Here](https://github.com/ryanoasis/nerd-fonts)
