@@ -39,5 +39,4 @@ alias nd='vim ~/.config/dunst/dunstrc'
 
 #Exec these:
 #btw
-#exec fish
 #figlet "Rowd lo ge olop"
