@@ -13,7 +13,8 @@
 - picom (compositor for window effects)
 - feh (wallpaper/image viewer)
 - dunst (notification daemon)
+- figlet (for those large text in the terminal)
 
 ```
-sudo pacman -S bspwm sxhkd polybar rxvt-unicode picom feh dunst
+sudo pacman -S bspwm sxhkd polybar rxvt-unicode picom feh dunst figlet
 ```
