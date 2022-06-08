@@ -1,3 +1,7 @@
-# Dotfiles for my Arch Linux rice
+# BSPWM + Polybar (gruvbox) Arch rice
 
 ![My Rice](rice.png)
+
+<br>
+
+Packages needed:
