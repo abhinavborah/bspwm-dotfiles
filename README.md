@@ -25,5 +25,5 @@ sudo pacman -S bspwm sxhkd polybar rxvt-unicode dmenu picom feh dunst figlet
 ## Extras:
 
 - Font(Hack Nerd Font) from [here](https://github.com/ryanoasis/nerd-fonts)
-- redshift-minimal (for screen temperature adjustment)
+- redshift-minimal<sup>(AUR)</sup> (for screen temperature adjustment)
 - flameshot (screenshot utility)
